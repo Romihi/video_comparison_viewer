@@ -1,0 +1,21 @@
+# 動画比較ビューア (Video Comparison Viewer) - 必要なライブラリ
+
+# コンピュータビジョン・画像処理
+opencv-python>=4.5.0
+
+# 画像処理
+Pillow>=8.0.0
+
+# 数値計算
+numpy>=1.19.0
+
+# GUI ドラッグ&ドロップ機能
+tkinterdnd2>=0.3.0
+
+# 標準ライブラリ（Python 3.7+に含まれているため、インストール不要）
+# tkinter - GUI フレームワーク
+# threading - マルチスレッド処理
+# time - 時間制御
+# os - ファイルシステム操作
+# subprocess - 外部プロセス実行
+# platform - プラットフォーム検出
